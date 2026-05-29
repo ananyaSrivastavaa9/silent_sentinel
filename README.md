@@ -19,6 +19,7 @@ The platform processes multimodal environmental signals through decoupled archit
 
 ## 📂 Repository Blueprint (Src-Layout)
 
+```text
 silent_sentinel/
 ├── config/
 │   └── config.yaml          # Hyperparameters & hardware thresholds
@@ -35,6 +36,7 @@ silent_sentinel/
 │   └── ui/
 │       └── app.py           # Sci-Fi Mission Control Dashboard (Streamlit)
 
+```
 ---
 
 ## ⚡ Quickstart, Deployment & Execution
