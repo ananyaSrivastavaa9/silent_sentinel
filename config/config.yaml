@@ -1,0 +1,22 @@
+acoustic:
+  sample_rate: 16000
+  frame_length_ms: 40
+  feature_dimensions: 65
+  classification_threshold: 0.75
+
+motion:
+  high_g_threshold: 2.5
+  stillness_duration_sec: 3.0
+  variance_threshold: 0.02
+
+fusion:
+  acoustic_weight: 0.6
+  motion_weight: 0.4
+  dynamic_confidence_gate: 0.7
+
+fsm:
+  countdown_seconds: 10
+
+logging:
+  level: "INFO"
+  format: "JSON"

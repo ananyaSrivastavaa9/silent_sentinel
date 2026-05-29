@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Core AI Brain / Data Models
+*.pkl
+*.h5
+*.tflite
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
