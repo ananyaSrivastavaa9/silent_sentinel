@@ -1,4 +1,4 @@
-# 🛡️ Silent Sentinel — Edge AI Research Platform
+# Silent Sentinel — Edge AI Research Platform
 
 An elite, production-grade (10/10) Edge AI Research Platform and Proof-of-Concept validation engine built for passive personal safety. 
 
