@@ -67,16 +67,16 @@ streamlit run src/ui/app.py
 
 If you are initializing this repository for Git and pushing it to GitHub for the first time, execute the following commands in your terminal:
 
-# Initialize local git tracking
+### Initialize local git tracking
 git init
 
-# Stage all production components (.gitignore will automatically protect your venv)
+### Stage all production components (.gitignore will automatically protect your venv)
 git add .
 
-# Commit architecture blueprint to local main branch
+### Commit architecture blueprint to local main branch
 git commit -m "feat: complete production-grade edge AI platform core architecture"
 
-# Link your local repo to your GitHub (Replace with your actual GitHub link)
-# git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-# git branch -M main
-# git push -u origin main
+### Link your local repo to your GitHub (Replace with your actual GitHub link)
+### git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+### git branch -M main
+### git push -u origin main
