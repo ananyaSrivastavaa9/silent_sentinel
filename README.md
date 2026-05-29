@@ -1,4 +1,3 @@
-````md
 # 🛡️ Silent Sentinel — Edge AI Passive Safety Platform
 
 **Designed & Engineered by: Ananya Srivastava**
@@ -112,5 +111,4 @@ streamlit run src/ui/app.py
 
 I am building this platform to bridge the gap between complex signal mathematics and real-world personal safety. If you find this project interesting, feel free to drop a star 🌟 on this repository or follow my development updates!
 
-```
 ```
