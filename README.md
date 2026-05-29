@@ -110,5 +110,3 @@ streamlit run src/ui/app.py
 # 🤝 Let's Connect!
 
 I am building this platform to bridge the gap between complex signal mathematics and real-world personal safety. If you find this project interesting, feel free to drop a star 🌟 on this repository or follow my development updates!
-
-```
